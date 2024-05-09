@@ -9,5 +9,11 @@
   }
 
  h2 {
-   color: green;
+   darkgreen;
  }
+
+#titulo-principal {
+   background-color: darkgreen;
+   color: white;
+   text-aling: center;
+}
