@@ -1,1 +1,13 @@
+<style>
+   body {
+     font: normal 1em Arial, Hrlvetica, sans-serif;
+   }
 
+  h1  { 
+    font-size: 2em;
+    color: darkgreen;
+  }
+
+ h2 {
+   color: green;
+ }
